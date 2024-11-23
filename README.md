@@ -1,7 +1,3 @@
-Below is a well-structured content for your README file, tailored to your `x-api-bot` project:
-
----
-
 # X API Bot (Twitter/X Automation)
 
 This repository contains a bot for interacting with the **X API** (formerly Twitter API). The bot can perform actions like retweeting, liking tweets, monitoring hashtags, and posting tweets automatically, with configurations and scheduling built-in.
